@@ -1,9 +1,8 @@
 ![A Full-Stack Web Devloper](/images/Logo-01.jpg)
 
-### Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Pete
+### Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm Pete
 
-Nice to meet ya! I have a passion for code, solving problems. I'm friendly, love to learn new things and always try and keep an open mind. You never know what you might learn from others so its best to listen!
-
+Nice to meet you! I am a full-stack developer with current experience using HTML/CSS/Javascript/jQuery/React to build web apps on the front end and Node.js, Express and PostgreSQL on the back. With a background in events management, the smallest details matter, and that is something equally as important in programming. I'm not afraid to ask why, and I thrive when I can understand the end goal while diving into the details. Constantly looking to learn and expand my knowledge base is something I strive for each and every day.
 <br>
 
 - 🔭 I’m currently finishing up a 6 month Full Stack Software Engineering program.

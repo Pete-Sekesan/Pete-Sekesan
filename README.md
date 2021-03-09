@@ -4,15 +4,17 @@
 
 Nice to meet ya! I have a passion for code, solving problems. I'm friendly, love to learn new things and always try and keep an open mind. You never know what you might learn from others so its best to listen!
 
-- 🔭 I’m currently finishing up a 6 month Full Stack Boot Camp.
-- 💻 Check pout my portfolio at <a href="https://peter-sekesan.dev/">https://peter-sekesan.dev</A>
+<br>
+
+- 🔭 I’m currently finishing up a 6 month Full Stack Software Engineering program.
+- 💻 Check out my portfolio at <a href="https://peter-sekesan.dev/">https://peter-sekesan.dev</A>
 - 👯 I’m looking to collaborate on anything javascript!
 - 🤔 I’m looking for help with finding a developer position
 - 💬 Ask me about myself or my code
 - 📫 How to reach me: psekesan@gmail.com
 - 📱 How to reach me: 516-662-3414
 
-- 🏃🏻‍♂️ Fun fact: I have ran 3 full marathons on over 10 halfs (<em>It's been a minute, full-time boot camp and a toddler take a lot of time, but I look forward to getting back to it.</em>)
+- 🏃🏻‍♂️ Fun fact: I have completed 3 full marathons on over 10 halfs (<em>It's been a minute, full-time boot camp and a toddler take a lot of time, but I look forward to getting back to it.</em>)
 
 ### Find me on
 

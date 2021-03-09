@@ -1,4 +1,4 @@
-![A Full-Stack Web Devloper](/Logo-01.jpg)
+![A Full-Stack Web Devloper](/images/Logo-01.jpg)
 
 ### Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Pete
 
@@ -14,7 +14,8 @@ Nice to meet ya! I have a passion for code, solving problems. I'm friendly, love
 
 - 🏃🏻‍♂️ Fun fact: I have ran 3 full marathons on over 10 halfs (<em>It's been a minute, full-time boot camp and a toddler take a lot of time, but I look forward to getting back to it.</em>)
 
-### Find me on 
+### Find me on
+
 [<a href="https://www.linkedin.com/in/petersekesan/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>]() <a href="https://www.linkedin.com/in/petersekesan/">[<a href="https://twitter.com/PeterSekesan/"><img alt="Twitter" src="https://img.shields.io/badge/petersekesan%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>]() <a href="https://twitter.com/PeterSekesan/">
 

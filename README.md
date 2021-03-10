@@ -13,7 +13,7 @@ Nice to meet you! I am a full-stack developer with current experience using HTML
 - 📫 How to reach me: psekesan@gmail.com
 - 📱 How to reach me: 516-662-3414
 
-- 🏃🏻‍♂️ Fun fact: I have completed 3 full marathons on over 10 halfs (<em>It's been a minute, full-time boot camp and a toddler take a lot of time, but I look forward to getting back to it.</em>)
+- 🏃🏻‍♂️ Fun fact: I have completed 3 full marathons and over 10 halfs (<em>It's been a minute, full-time boot camp and a toddler take a lot of time, but I look forward to getting back to it.</em>)
 
 ### Find me on
 

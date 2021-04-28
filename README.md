@@ -2,7 +2,9 @@
 
 ### Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm Pete
 
-Nice to meet you! I am a full-stack developer with current experience using HTML/CSS/Javascript/jQuery/React to build web apps on the front end and Node.js, Express and PostgreSQL on the back. With a background in events management, the smallest details matter, and that is something equally as important in programming. I'm not afraid to ask why, and I thrive when I can understand the end goal while diving into the details. Constantly looking to learn and expand my knowledge base is something I strive for each and every day.
+Nice to meet you! A motivated and driven software engineer with a background in events marketing who is now developing applications on the web. Demonstrated a proven knowledge of formulating and implementing solutions from a high level to the most minute of details. As a programming graduate, I strive to adapt and learn something new every day to be prepared to tackle any challenges that may be presented.![image](https://user-images.githubusercontent.com/72456128/116479832-498fac00-a84e-11eb-8130-eac65927f30e.png)
+![Uploading image.png…]()
+
 <br>
 
 - 🔭 I’m currently finishing up a 6 month Full Stack Software Engineering program.

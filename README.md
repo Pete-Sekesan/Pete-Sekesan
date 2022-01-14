@@ -8,6 +8,10 @@ I am currently working full-time as a Frontend UX Developer for Adelphi Universi
 
 Demonstrated a proven knowledge of formulating and implementing solutions from a high level to the most minute of details.
 
+<<<<<<< HEAD
+=======
+- 🔭 I’m a Full Stack Software Engineering program graduate.
+>>>>>>> 8c71776c1f688b69adca22a14cfc1118ebb152a9
 - 💻 Check out my portfolio at <a href="https://peter-sekesan.dev/">https://peter-sekesan.dev</A>
 - 👯 I’m looking to collaborate on anything Javascript and more!
 - 💬 Ask me about myself or my code

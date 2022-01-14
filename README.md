@@ -1,18 +1,20 @@
-![A Full-Stack Web Devloper](/images/Logo-01.jpg)
+![A Software Engineer](/images/Logo-01.jpg)
 
 ### Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm Pete
 
-Nice to meet you! A motivated and driven software engineer with a background in events marketing who is now developing applications on the web. Demonstrated a proven knowledge of formulating and implementing solutions from a high level to the most minute of details. As a programming graduate, I strive to adapt and learn something new every day to be prepared to tackle any challenges that may be presented.
+Nice to meet you! I am motivated and driven software engineer with a background in events marketing who is now developing applications and websites.
 
-- 🔭 I’m currently finishing up a 6 month Full Stack Software Engineering program.
+I am currently working full-time as a Frontend UX Developer for Adelphi University on their Web Development team.
+
+Demonstrated a proven knowledge of formulating and implementing solutions from a high level to the most minute of details.
+
 - 💻 Check out my portfolio at <a href="https://peter-sekesan.dev/">https://peter-sekesan.dev</A>
-- 👯 I’m looking to collaborate on anything javascript!
-- 🤔 I’m looking for help with finding a developer position
+- 👯 I’m looking to collaborate on anything Javascript and more!
 - 💬 Ask me about myself or my code
 - 📫 How to reach me: psekesan@gmail.com
 - 📱 How to reach me: 516-662-3414
 
-- 🏃🏻‍♂️ Fun fact: I have completed 3 full marathons and over 10 halfs (<em>It's been a minute, full-time boot camp and a toddler take a lot of time, but I look forward to getting back to it.</em>)
+- 🏃🏻‍♂️ Fun fact: I have completed 3 full marathons and over 10 halfs (<em>It's been a minute, full-time dev work, a toddle, and a newborn take a lot of time, but I look forward to getting back to it.</em>)
 
 ### Find me on
 
@@ -35,6 +37,7 @@ Nice to meet you! A motivated and driven software engineer with a background in 
 ### Currently learning
 
 <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
+<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pete-sekesan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

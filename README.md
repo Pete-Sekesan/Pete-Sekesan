@@ -6,15 +6,13 @@ Nice to meet you! I am motivated and driven software engineer with a background 
 
 I am currently working full-time as a Frontend UX Developer for Adelphi University on their Web Development team.
 
-Demonstrated a proven knowledge of formulating and implementing solutions from a high level to the most minute of details.
-
 - 💻 Check out my portfolio at <a href="https://peter-sekesan.dev/">https://peter-sekesan.dev</A>
 - 👯 I’m looking to collaborate on anything Javascript and more!
 - 💬 Ask me about myself or my code
 - 📫 How to reach me: psekesan@gmail.com
 - 📱 How to reach me: 516-662-3414
 
-- 🏃🏻‍♂️ Fun fact: I have completed 3 full marathons and over 10 halfs (<em>It's been a minute, full-time dev work, a toddle, and a newborn take a lot of time, but I look forward to getting back to it.</em>)
+- 🏃🏻‍♂️ Fun fact: I have completed 3 full marathons and over 10 halfs (<em>It's been a minute, full-time dev work, a toddler, and a newborn take a lot of time, but I look forward to getting back to it.</em>)
 
 ### Find me on
 

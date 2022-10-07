@@ -4,7 +4,7 @@
 
 Nice to meet you! I am motivated and driven software engineer with a background in events marketing who is now developing applications and websites.
 
-I am currently working full-time as a Frontend UX Developer for Adelphi University on their Web Development team.
+I am currently working full-time as a Full Stack Developer for Newsday Media Group.
 
 - 💻 Check out my portfolio at <a href="https://peter-sekesan.dev/">https://peter-sekesan.dev</A>
 - 👯 I’m looking to collaborate on anything Javascript and more!
